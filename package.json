@@ -1,6 +1,6 @@
 {
     "name": "ccui-draggabilly",
-    "version": "1.1.2",
+    "version": "1.0.6",
     "description": "CCUI Draggabilly JavaScript Library",
     "main": "ccui-draggabilly.js",
     "scripts": {
